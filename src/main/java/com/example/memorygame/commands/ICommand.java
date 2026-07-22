@@ -2,7 +2,6 @@ package com.example.memorygame.commands;
 
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
-
 /**
  * Echivalentul interfeței System.Windows.Input.ICommand din WPF.
  * Extinde EventHandler&lt;ActionEvent&gt; astfel încât o implementare poate fi
